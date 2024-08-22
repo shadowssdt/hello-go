@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	s := "123"
+	s := "hello world"
 	//bs := []byte(s)
 	println(len(s))
 }
